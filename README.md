@@ -10,7 +10,6 @@
 
 - 🔍 **Crop Recommendation** based on:
   - Soil nutrients (N, P, K)
-  - pH level
   - Rainfall
   - Temperature
   - Humidity
